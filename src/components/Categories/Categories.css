@@ -1,0 +1,21 @@
+.Categories {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 1vmin;
+    width: 100%;
+}
+
+.Categories li {
+    font-size: 3vmin;
+    width: calc(var(--width)/4);
+    padding: 1vmin;
+    border: 0.8vmin groove hsla(0, 0%, 0%, 0.5);
+    display: grid;
+    place-items: center;
+    transition: all 0.5s;
+}
+.Categories li:hover {
+    transform: scale(1.1);
+}

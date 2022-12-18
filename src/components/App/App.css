@@ -1,0 +1,13 @@
+:root {
+  --width: 80vw;
+  --height: 80vh;
+}
+
+.App {
+  width: var(--width);
+  min-height: var(--height);
+  display: grid;
+  place-items: center;
+  background: linear-gradient(180deg, hsl(0, 0%, 30%), hsl(0, 0%, 10%));
+  border: 0.8vmin groove hsla(0, 0%, 0%, 0.5);
+}
