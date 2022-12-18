@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/arncil.github.io/humor-me/static/css/main.42b843df.css",
+    "main.js": "/arncil.github.io/humor-me/static/js/main.b70b4306.js",
+    "static/media/Itim-Regular.ttf": "/arncil.github.io/humor-me/static/media/Itim-Regular.38b1e6579a4ae98f4318.ttf",
+    "index.html": "/arncil.github.io/humor-me/index.html",
+    "main.42b843df.css.map": "/arncil.github.io/humor-me/static/css/main.42b843df.css.map",
+    "main.b70b4306.js.map": "/arncil.github.io/humor-me/static/js/main.b70b4306.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42b843df.css",
+    "static/js/main.b70b4306.js"
+  ]
+}
